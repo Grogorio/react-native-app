@@ -1,0 +1,32 @@
+{
+  "exclude": [
+    "src/**/*.spec.tsx",
+    "src/**/*.spec.ts",
+    "src/tests/index.ts",
+    "src/tests/setup.js",
+    "src/tests/utils.ts",
+  ],
+  "compilerOptions": {
+    "outDir": "./build",
+    "target": "es6",
+    "module": "commonjs",
+    "jsx": "react",
+    "strict": true,
+    "strictNullChecks": false,
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "declaration": false,
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "skipLibCheck": true,
+    "typeRoots": [
+      "node_modules/@types", "src/typings"
+    ],
+    "lib": [ "es6", "dom" ]
+  },
+  "complileOnSave": true
+}
+

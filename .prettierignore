@@ -1,0 +1,4 @@
+*.json
+*.md
+*.markdown
+src/literals.ts

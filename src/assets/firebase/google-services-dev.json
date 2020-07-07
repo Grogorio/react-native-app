@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "616918841891",
+    "firebase_url": "https://bus-a-demanda-dev.firebaseio.com",
+    "project_id": "bus-a-demanda-dev",
+    "storage_bucket": "bus-a-demanda-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616918841891:android:6fc41bfef324fa16",
+        "android_client_info": {
+          "package_name": "cat.amb.busondemand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616918841891-lda8ge94egrl7vbfs2kcchaov8i1it9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_WhfIR0uB3uEf_OactTBjg7xH1rNW4zY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
